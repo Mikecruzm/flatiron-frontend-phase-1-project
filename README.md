@@ -34,5 +34,5 @@ This project is my first of many, but learning from the mistakes is how we are a
 
 ## video 
 
-Here is a short video giving a run down of the project
+Here is a short video, i recorded giving a run down of the project.
 https://vimeo.com/848831017?share=copy
