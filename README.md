@@ -29,9 +29,11 @@ If you find an issue or you will like to submit a suggestion to improve this pro
 
 ## known issues 
 
-This project is my first of many, but learning from the mistakes is how we are able to move foward! Happy Coding!
+This project is my first of many, but learning from the mistakes is how we are able to move foward!
 
 ## video 
 
 Here is a short video, i recorded giving a run down of the project for a visual and better understanding.
 https://vimeo.com/848831017?share=copy
+
+Happy Coding!
