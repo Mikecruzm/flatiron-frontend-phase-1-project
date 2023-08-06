@@ -6,7 +6,7 @@ body{
 
 .meme-finder img {
     height: 430px;
-    object-fit: cover;
+    object-fit: cover; 
 }
 
 .meme-finder .generate-meme-btn {
