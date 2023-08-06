@@ -29,7 +29,7 @@ If you find an issue or you will like to submit a suggestion to improve this pro
 
 ## known issues 
 
-This project is my first of many, but learning from the mistakes is how we are able to move foward! Happy Coding
+This project is my first of many, but learning from the mistakes is how we are able to move foward! Happy Coding!
 
 ## video 
 
