@@ -6,7 +6,9 @@ Should include project name, description, installation instructions, brief descr
 
 ## a Meme finder it will find you  a random meme with a click of a button!
 
-This project is small project  made for my school Flatiron School. In order to demostrate the skills and tools I have learn so far in school. Some of the things I used to get this running was HTML, Main.js and css. 
+This project is small project made for my school Flatiron School. In order to demostrate the skills and tools I have learn so far in school. Some of the things I used to get this running was HTML, Main.js and css. 
+
+
 
 * create your very own meme finder
 * Create a running server to find a meme at random.
@@ -15,6 +17,7 @@ This project is small project  made for my school Flatiron School. In order to d
 1. Clone this project into your terminal
 2. Set up 
 3. Install live server `ritwickdey.LiveServer`
+4. NPM install 
 
 
 ## Make yoor own version 
@@ -29,3 +32,6 @@ If you find an issue or will like to submit a suggestion to improve this project
 
 this project is my first of many, but learning from the mistakes is how we are able to move foward!
 
+## video 
+
+https://vimeo.com/848831017?share=copy
