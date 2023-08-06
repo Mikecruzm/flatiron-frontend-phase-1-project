@@ -5,7 +5,7 @@ My Flatiron Frontend Phase 1 Project.
 
 ## a Meme finder it will find you a random meme with a click of a button!
 
-This project is small project made for my school Flatiron School. In order to demostrate the skills and tools I have learn so far in school. Some of the things I used to get this running was HTML, Main.js and css. 
+This project is small project made for my school Flatiron School. In order to demostrate the skills and tools I have learn so far in school. Some of the things I used to get this running was HTML, Main.js and CSS. 
 
 
 
