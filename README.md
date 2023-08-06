@@ -9,14 +9,14 @@ This project is small project made for my school Flatiron School. In order to de
 
 
 
-* create your very own meme finder
+* create your very own meme finder.
 * Create a running server to find a meme at random.
 * Automatically fetch a meme by a click of a buttom at the top, the memes will come at random, in others words, as a surprise.
 
-1. Clone this project into your terminal
-2. Set up 
-3. Install live server `ritwickdey.LiveServer`
-4. NPM install 
+1. Clone this project into your terminal.
+2. Set up.
+3. Install live server `ritwickdey.LiveServer`.
+4. NPM install.
 
 
 ## Make yoor own version 
