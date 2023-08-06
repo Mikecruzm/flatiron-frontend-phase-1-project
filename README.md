@@ -30,7 +30,7 @@ If you find an issue or will like to submit a suggestion to improve this project
 
 ## known issues 
 
-this project is my first of many, but learning from the mistakes is how we are able to move foward!
+This project is my first of many, but learning from the mistakes is how we are able to move foward!
 
 ## video 
 
