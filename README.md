@@ -21,11 +21,11 @@ This project is small project made for my school Flatiron School. In order to de
 
 ## Make yoor own version 
 
-It's been made and recreated multiple times but to undertsand how it works and to be able to make your own version of it, is the beauty of becoming part of the coding world.
+It's been made and recreated multiple times, but to undertsand how it works and to be able to make your own version of it, is the beauty of becoming part of the coding world.
 
 ## Find a bug?
 
-If you find an issue or will like to submit a suggestion to improve this project, please submit a comment using the tab above!
+If you find an issue or you will like to submit a suggestion to improve this project, please submit a comment using the tab above!
 
 ## known issues 
 
