@@ -17,7 +17,7 @@ const generateMeme = () => {
       .then((response) => response.json())
       .then((data) => {
          updateDetails(data.url, data.title, data.author);
-        });
+        }); 
 
 };
 
