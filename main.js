@@ -23,3 +23,4 @@ const generateMeme = () => {
 
 generateMemeBtn.addEventListener("click", generateMeme);
 
+
