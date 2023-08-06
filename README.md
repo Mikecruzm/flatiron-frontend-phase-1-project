@@ -22,7 +22,7 @@ This project is small project made for my school Flatiron School. In order to de
 
 ## Make yoor own version 
 
-Its been made and recreated multiple times but to undertsand how it works and to be able to make your own version of it, is the beauty of it of becoming part of the coding world.
+Its been made and recreated multiple times but to undertsand how it works and to be able to make your own version of it, is the beauty of becoming part of the coding world.
 
 ## Find a bug?
 
